@@ -1,5 +1,3 @@
-# linkedin-swe-course
-A combination of projects done while taking a LinkedIn Software Engineering Course.
 # LinkedIn SWE Course
 
 Welcome to my learning repository for the LinkedIn Software Engineering Course. This repo documents my progress, notes, and projects as I complete the course to build real-world software engineering skills.
